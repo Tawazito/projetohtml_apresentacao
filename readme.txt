@@ -1,6 +1,10 @@
 link do site atualizado: 
 https://tawazito.github.io/projetohtml_apresentacao/
 
+Neste projeto modificamos a estrutura html do projeto e a estrutura css, utilizamos a ferramenta de versionamento GIT para facilitar o processo de customização do teamplate utilizado.
+deixarei o link para o teamplate original a seguir:
+
+
 -----------------------
 # README
 -----------------------
